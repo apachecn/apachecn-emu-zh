@@ -1,4 +1,4 @@
-# 让我们用 Python 写一个 Game Boy 模拟器受 Python 启发
+# 让我们用 Python 写一个 Game Boy 模拟器
 
 > 原文：<https://www.inspiredpython.com/course/game-boy-emulator/let-s-write-a-game-boy-emulator-in-python>
 

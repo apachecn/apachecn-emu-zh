@@ -1,4 +1,4 @@
-# Game Boy 模拟器:编写 Z80 反汇编程序受 Python 启发
+# Game Boy 模拟器:编写 Z80 反汇编程序
 
 > 原文：<https://www.inspiredpython.com/course/game-boy-emulator/game-boy-emulator-writing-the-z80-disassembler>
 

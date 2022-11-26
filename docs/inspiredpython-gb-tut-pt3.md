@@ -1,4 +1,4 @@
-# Game Boy 模拟器:设计 CPU 受 Python 启发
+# Game Boy 模拟器:设计 CPU
 
 > 原文：<https://www.inspiredpython.com/course/game-boy-emulator/game-boy-emulator-designing-the-cpu>
 
